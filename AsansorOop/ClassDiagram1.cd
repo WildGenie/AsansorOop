@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AsansorOop.Ofis" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ofis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.Kat" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAEAAAAAA=</HashCode>
+      <FileName>Kat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AsansorOop.Asansor">
+    <Position X="3.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBAIAAAAAgCAAAAAAAAAAIEARAAAAAAAABAAQgg=</HashCode>
+      <FileName>Asansor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IcKapi" />
+      <Property Name="AsansorKontrolPaneli" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AsansorOop.Yolcu">
+    <Position X="14.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAACABAAQAAAAAAIAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Yolcu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Konum" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AsansorOop.Panel">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Panel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.PanelBilesen">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PanelBilesen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.Gosterge">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gosterge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.Dugme">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dugme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.Zil">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.KapiDugmesi">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KapiAcmaKapamaDugmesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.CagriDugmesi">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CagriDugmesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.KatDugmesi">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KatDugmesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.AcilCagriDugmesi">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AcilCagriDugmesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.Kapi">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Kapi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.IcKapi">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IcKapi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.DisKapi">
+    <Position X="8.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DisKapi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.AsansorGostergesi">
+    <Position X="0.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AsansorGostergesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsansorOop.AsansorKontrolPaneli">
+    <Position X="3" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AsansorKontrolPaneli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AsansorOop.IKonum">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Konum.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AsansorOop.AsansorDurum" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAgAACAEAAIAAAAAAAA=</HashCode>
+      <FileName>AsansorDurum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AsansorOop.Yon" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Yon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AsansorOop.KapiDurum" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgABAQAAA=</HashCode>
+      <FileName>KapiDurum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
